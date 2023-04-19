@@ -1,0 +1,53 @@
+site_name: Judy Curie
+repo_name: judycurie/jmc
+site_url: https://www.judycurie.com/
+copyright: Judy Curie
+
+nav:
+    - ...: index.md
+    - Science:
+      - nav/science/research.md
+      - nav/science/publications.md
+      - nav/science/teaching.md
+      - nav/science/talks.md
+
+    - Is:
+      - nav/is/about.md
+      - nav/is/CV.md
+    - Art:
+      - nav/art/projects.md
+      - nav/art/NFT.md
+
+extra:
+  # Set your own social media below (or remove)
+  social:
+    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/judycurie/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/judyta.cichocka
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/judycurie
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/judyta-cichocka-6992a854/
+
+theme:
+  name: simple-blog
+  custom_dir: template
+  title_style: normal
+  favicon: assets/logo.svg
+  logo: assets/logo.svg
+  # theme_style: light
+  colors:
+    text: black
+    title: black
+    primary: black
+    background: white
+
+markdown_extensions:
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
