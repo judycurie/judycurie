@@ -19,22 +19,31 @@ School of Architecture and Design, Wellington & Wairarapa, New Zealand, tutoring
 
 ##Leadership of workshops at international conferences
 ![](../../assets/science/jmc.png)
+
 - **AMERICAN ASSOCIATION OF COMPUTER AIDED DESIGN IN ARCHITECTURE (ACADIA 2018)**,*Recalibration of Architectural Design Optimization*, 14/10/2018, Mexico City, MX
 
 ![](../../assets/science/jmc2.png)
+
 - **COMPUTER-AIDED ARCHITECTURAL DESIGN RESEARCH IN ASIA (CAADRIA 2017)**,*Workflows for Conceptual Architectural Design Optimisation (ADO)*, 03-04/04/2017, Xi'an JiaotongLiverpool University, Suzhou, CN
 
+
 ![](../../assets/science/IASS2017b.png)
+
 - **INTERNATIONAL ASSOCIATION OF SPATIAL STRUCTURES 2017 (IASS 2017)**, *Interfacing Architecture, Engineering and Mathematical Optimization*, 24/09/2017, Hamburg, DE
 
+
 ![](../../assets/science/jmc4.png)
+
 - **ADVANCES IN ARCHITECTURAL GEOMETRY 2016 (AAG 2016)**, *AJ Game from complexity to reality*, 10-11/09/2016, ETH, Zurich, CH
 
+
 ![](../../assets/science/jmc5.png)
+
 - **SHAPES OF LOGIC 2015 (SOL 2015)**
 *Min- max structures*, 7-11/03/2015, Wroclaw, PL
 
 ![](../../assets/jmc6.png)
+
 - **ADVANCES IN ARCHITECTURAL GEOMETRY 2014 (AAG 2014)**, *Prototyping Optimization process in relation to solar analysis*, 20/09/2014, UCL, London, GB
 
 
