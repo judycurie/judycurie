@@ -1,35 +1,27 @@
 
 ![](./assets/graphics-master-areas.png)
-# Research Areas
+### **Research Areas**
 
 
 I am interested in conducting and collaborating in research projects  in the following areas:
 
-- computational design, design optimization, multidisciplinary optimization
-  	- structural art (elegant, efficient & economic structures)
+- **computational design & multidisciplinary design optimization**
+	- structural art (elegant, efficient & economic structures)
 	- form-finding
-	- optimization of Life Cycle Costs of a design (as a balance between energy used and CO2 emitted to produce, transport, fabricate, construct and finally utilize the design)
 	- Architectural Design Optimization & tools
+	- Artifitial Intelligence, Machine Learning
 
-- digital fabrication, rapid prototyping, 3D scanning
-	- smart fabrication of materials and building components
-	- creation of the economic housing unit that can be produeced by fablabs
+- **digital fabrication, rapid prototyping**
+	- smart fabrication of building components
 	- recycle: recyclable & bio materials for digital fabrication
 	- reuse: creation of 3D libraries of the available second-hand materials - establishing matching processes for the best material economy
 
+- **design workflows, automation and software**
+	- automated design for fabrication 4.0
+	- digital construction on blockchain
 
 
-
-- design workflows, automation and software
-	- design for fabrication 4.0
-	- construction on blockchain
-
-
-
-
-
-
-# Funding
+### **Funding**
 
 |Grant | Unit | Coordinator  |Amount | Realization Time|
 | -----| ----| ------------ | ------| ----------------|

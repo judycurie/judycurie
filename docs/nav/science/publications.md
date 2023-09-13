@@ -1,5 +1,5 @@
 
-##Journal Papers
+### **Journal Papers**
 
 [ * ] corresponding author
 
@@ -21,7 +21,7 @@
 
 
 
-##Research monographs,chapters
+### **Research monographs,chapters**
 
 6. Cichocka, J.[ * ] & Browne, W. (2016) **Multi criteria optimization in architectural design: goal-oriented methods and computational morphogenesis.** In: *Shapes of Logic. EVERYTHING WHAT SURROUND US CAN BE DESCRIBED*. Wrocław, Oficyna Wydawnicza Politechniki Wrocławskiej, 107–116.
 
@@ -30,5 +30,5 @@
 8. Cichocka, J. & Globa, A. (2015) ***Attractors in Architecture: Attractor-based optimization and design solutions for dynamical systems in architecture***. 1st ed. Wellington, Code of Space.
 
 
-##Bibltex
-[bib file](../../science/assets//export.bib){:download }
+### **Bibltex**
+[bib file](../../science/assets//export.bib)
