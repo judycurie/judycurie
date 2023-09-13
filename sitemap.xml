@@ -2,47 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.judycurie.com/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/art/NFT/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.judycurie.com/nav/art/exhibitions/</loc>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/art/projects/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/is/CV/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/is/about/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/science/publications/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/science/research/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/science/talks/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.judycurie.com/nav/science/teaching/</loc>
-         <lastmod>2023-04-19</lastmod>
+         <lastmod>2023-09-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
