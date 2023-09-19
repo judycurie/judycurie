@@ -30,5 +30,14 @@
 8. Cichocka, J. & Globa, A. (2015) ***Attractors in Architecture: Attractor-based optimization and design solutions for dynamical systems in architecture***. 1st ed. Wellington, Code of Space.
 
 
+### **Registered Community Designs (RCD) in the European Union Intellectual Property Office (EUIPO)**
+1.	[008448351-0001](https://euipo.europa.eu/eSearch/#details/designs/008448351-0001)
+2.	[008673966-0001](https://euipo.europa.eu/eSearch/#details/designs/008673966-0001)
+3.	[008414718-0001](https://euipo.europa.eu/eSearch/#details/designs/008414718-0001)
+4.	[008414718-0002](https://euipo.europa.eu/eSearch/#details/designs/008414718-0002)
+
+### **US Design Patent**
+1. [USD997858](../../assets/science/USD997858-eGrant.pdf)
+
 ### **Bibltex**
 [bib file](../../science/assets//export.bib)
