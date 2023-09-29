@@ -26,6 +26,7 @@ I am interested in conducting and collaborating in research projects  in the fol
 |Grant | Unit | Coordinator  |Amount | Realization Time|
 | -----| ----| ------------ | ------| ----------------|
 | Horizon 2020, MSCA IF, OPTIshell (EU funding: 101033646) *A framework for the multi-objective optimization of timber gridshells under structural and energy-based criteria.* [link](https://cordis.europa.eu/project/id/101033646)| Saule Technologies, PL|   J.Cichocka | 137.6k€ | 2022-2024|
+| NCBiR, Inteligentny Rozwój 2014-2020, (funding nr:POIR.01.01.01-00-1696/20)  *Intelligent, kinetic sunlight breakers integrated with photovoltaics for smart building applications* [link](https://cordis.europa.eu/project/id/101033646)| Saule Technologies, PL|   Saule Technologies | 137.6k€ | 2021-2023|
 | NAWA PPN/BEK/2020/1/00448 *Living structures*| IBERO, MX| J.Cichocka | 84kPLN | 2021-2022|
 | FAST – funding for research groups *Perovskin – active-bending pavilion with solar membrane*| TU Wroclaw, PL|  J.Cichocka | 1.5k€ | 2020|
 | MIT ART Grant, Inframe – structural art [link](https://arts.mit.edu/camit/funding/)| MIT, Boston, US|  J.Cichocka | 3.6k$ | 2019|

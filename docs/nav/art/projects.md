@@ -1,5 +1,21 @@
 
-![](./assets/graphics-master-areas.png)
+
+### 2023 Living Knitwork Pavilion - Burning Man 2023 Honoraria
+![](../../assets/art/concept.jpg)
+
+One of the highlighted projects merging technology with the beauty and craftsmanship of fine arts, the Living Knitwork Pavilion recently received the Black Rock City Honoraria Grant from the Burning Man Organization. The project was designed and built by Irmandy Wicaksono and [interdisicplinary collective](https://livingknit.work/team/) of MIT PhD students, staff members and alumni
+I designed the central asymptotic tower structure.
+
+
+[www.media.mit.edu](https://www.media.mit.edu/projects/living-knitwork/overview/)
+
+[https://www.livingknit.work/](https://www.livingknit.work/)
+
+[archdaily.com](https://www.archdaily.com/1006994/a-living-knit-pavilion-and-a-temple-of-the-heart-10-installations-and-pavilions-at-burning-man-2023)
+
+[archinect.com](https://archinect.com/news/article/150371635/mit-media-lab-group-unveils-living-knitwork-pavilion-at-burning-man-2023)
+
+
 
 ### 2022-2024 OPTIshell - Asymptotic Gridshell
 ![](../../assets/art/concept.jpg)
@@ -28,7 +44,7 @@ Perovskite PV installation on the Polish Pavilion for EXPO 2020. Project prepare
 The INFRAME pavilion is a temporary timber elastic gridshell structure built on the MIT campus in September 2019 as part of Judyta Cichocka's CEE MEng thesis.  The structure transforms the function of the public staircase between buildings E15 and E25 on the MIT campus into a performance area. A single layer gridshell becomes a real temporary outdoor stage for electronic music performances, a canvas for a video-mapping show, and has multiple imaginary roles invented by potential next owners. The ultimate goal of the project was to design an elastic timber gridshell, which can be constructed in real-life scenario, providing a functional space for experimental artistic performances and which endeavors to embody the principles of structural art: economy, efficiency and elegance. The challenge lied in development of the design strategy, which allows rapid construction by a small group of inexperienced builders at minimum cost while complying to the building code in Massachusetts (which was required by MIT).
 
 ### 2016 Hiriwa Pavilion -  Metal Shell Pavilion
-
+![](../../assets/art/hiriwa-pavilion.jpg)
 
 [A winning visit for international design student](https://www.wgtn.ac.nz/news/2016/04/a-winning-visit-for-international-design-student)
 

@@ -6,7 +6,7 @@ Name: Judyta Maria Cichocka
 
 Date and place of birth: May 17, 1989, Rzeszow, Poland.
 
-[linkedin profile]()
+[linkedin profile](https://www.linkedin.com/in/judyta-cichocka-6992a854/)
 ### **Professional experience**
 |Time | Employer  | Position | Country|
 | -----| ------------ | ------| ----------------|
