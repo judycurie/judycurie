@@ -15,9 +15,14 @@ nav:
       - nav/is/about.md
       - nav/is/CV.md
     - Art:
-      - nav/art/projects.md
+
       - nav/art/NFT.md
       - nav/art/exhibitions.md
+      - Projects:
+         - nav/art/projects.md
+         - nav/art/projects/p1.md
+
+
 
 extra:
   # Set your own social media below (or remove)
@@ -35,6 +40,9 @@ extra:
 theme:
   name: simple-blog
   custom_dir: template
+  features:
+    - navigation.sections
+    - navigation.tabs
   title_style: normal
   favicon: assets/logo.svg
   logo: assets/logo.svg
