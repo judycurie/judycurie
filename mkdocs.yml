@@ -18,9 +18,8 @@ nav:
 
       - nav/art/NFT.md
       - nav/art/exhibitions.md
-      - Projects:
-         - nav/art/projects.md
-         - nav/art/projects/p1.md
+      - nav/art/projects.md
+        
 
 
 
