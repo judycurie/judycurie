@@ -8,15 +8,15 @@ body {
     color: #323232;
     background-color: #fefefe;
     font-family: 'Fira Mono',monospace;
-    font-size: 1.6em;
+    font-size: 1.4em;
     font-weight: 400;
     letter-spacing: .0625em;
-    line-height: 1.8em;
+    line-height: 1.7em;
 }
 
 main {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 img {
@@ -39,7 +39,7 @@ code {
 }
 
 pre {
-    margin: 1.6rem 0 1rem 0;
+    margin: 0.4rem 0 0.4rem 0;
     padding: 1.6rem;
     overflow-x: auto;
     color:#e5e5e5;
@@ -71,8 +71,8 @@ pre {
 
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
 body {
-    font-size: 1.4em;
-    line-height: 1.6em;
+    font-size: 1.0em;
+    line-height: 1.2em;
 }
 }
 
@@ -87,7 +87,7 @@ a:focus,a:hover {
 }
 
 p {
-    margin: 1.6rem 0 1.6rem 0;
+    margin: 0.6rem 0 0.6rem 0;
 }
 
 p a {
@@ -104,12 +104,12 @@ p a:focus,p a:hover {
 h1,h2,h3,h4,h5,h6 {
     color: #000;
     letter-spacing: .0625em;
-    margin: 3.2rem 0 1.6rem 0;
+    margin: 0.6rem 0 0.6rem 0;
 }
 
 h1 {
-    font-size: 3.2rem;
-    line-height: 3.2rem;
+    font-size: 2.8rem;
+    line-height: 2.6rem;
     text-transform: uppercase;
 }
 
@@ -119,62 +119,62 @@ h2 {
 
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
 h1 {
-    font-size: 2.8rem;
-    line-height: 2.8rem;
-}
-}
-
-h2 {
-    font-size: 2.8rem;
-    line-height: 2.8rem;
-}
-
-@media only screen and (min-device-width:320px) and (max-device-width:480px) {
-h2 {
-    font-size: 2.4rem;
-    line-height: 2.4rem;
-}
-}
-
-h3 {
-    font-size: 2.4rem;
-    line-height: 2.4rem;
-}
-
-@media only screen and (min-device-width:320px) and (max-device-width:480px) {
-h3 {
-    font-size: 2rem;
-    line-height: 2rem;
-}
-}
-
-h4 {
     font-size: 2.2rem;
-    line-height: 2.2rem;
+    line-height: 2.0rem;
+}
+}
+
+h2 {
+    font-size: 1.6rem;
+    line-height: 1.8rem;
 }
 
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
-h4 {
-    font-size: 1.8rem;
+h2 {
+    font-size: 1.6rem;
     line-height: 1.8rem;
 }
 }
 
-h5 {
-    font-size: 2rem;
-    line-height: 2rem;
+h3 {
+    font-size: 1.4rem;
+    line-height: 1.6rem;
 }
 
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
-h5 {
-    font-size: 1.6rem;
+h3 {
+    font-size: 1.4rem;
     line-height: 1.6rem;
 }
 }
 
-h6 {
-    font-size: 1.4rem;
+h4 {
+    font-size: 1.2rem;
     line-height: 1.4rem;
+}
+
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {
+h4 {
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+}
+}
+
+h5 {
+    font-size: 1rem;
+    line-height: 1.2rem;
+}
+
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {
+h5 {
+    font-size: 1.0rem;
+    line-height: 1.2rem;
+}
+}
+
+h6 {
+    font-size: 1.0rem;
+    line-height: 1.2rem;
 }
 
 blockquote {
@@ -233,7 +233,7 @@ table tr td:last-child,table tr th:last-child {
 
 .navigation a {
     display: inline;
-    font-size: 1.6rem;
+    font-size: 1.8rem;
     text-transform: uppercase;
     line-height: 6rem;
     letter-spacing: .1rem;
@@ -258,8 +258,8 @@ table tr td:last-child,table tr th:last-child {
 }
 
 .navigation ul li a {
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left:0.4rem;
+    margin-right: 0.4rem;
 }
 
 .content {
@@ -290,7 +290,7 @@ table tr td:last-child,table tr th:last-child {
 }
 
 .list ul {
-    margin: 3.2rem 0 3.2rem 0;
+    margin: 0.4rem 0 0.4rem 0;
     list-style: none;
     padding: 0;
 }
@@ -302,15 +302,15 @@ table tr td:last-child,table tr th:last-child {
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
 .list ul li {
     font-size: 1.4rem;
-    margin: 1.6rem 0 1.6rem 0;
+    margin: 0.4rem 0 0.4rem 0;
 }
 }
 
 .list ul li span {
     display: inline-block;
     text-align: right;
-    width: 25rem;
-    margin-right: 3rem;
+    width: 40rem;
+    margin-right: 0.4rem;
 }
 
 @media only screen and (min-device-width:320px) and (max-device-width:480px) {
@@ -337,13 +337,13 @@ table tr td:last-child,table tr th:last-child {
 .pagination li span {
     margin: 0;
     text-align: center;
-    width: 3.2rem;
+    width: 5rem;
 }
 
 .pagination li a span {
     margin: 0;
     text-align: center;
-    width: 3.2rem;
+    width: 5rem;
 }
 
 .centered {
@@ -376,7 +376,7 @@ table tr td:last-child,table tr th:last-child {
 
 .centered .about ul {
     list-style: none;
-    margin: 3rem 0 1rem 0;
+    margin: 0.4rem 0 0.4rem 0;
     padding: 0;
 }
 
@@ -387,8 +387,8 @@ table tr td:last-child,table tr th:last-child {
 
 .centered .about ul li a {
     text-transform: uppercase;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
     font-size: 1.6rem;
 }
 
@@ -427,7 +427,7 @@ table tr td:last-child,table tr th:last-child {
 }
 
 .footer {
-    height: 6rem;
+    height: 4rem;
     width: 100%;
     text-align: center;
     line-height: 6rem;
@@ -521,8 +521,8 @@ table tr td:last-child,table tr th:last-child {
 .md-source-repo-icon {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 4px;
+    margin-left: 4px;
     font-size: xx-large;
 }
 
@@ -568,6 +568,6 @@ table tr td:last-child,table tr th:last-child {
 
 @media (max-width: 991px) {
   .dropdown-menu .dropdown-menu{
-      margin-left:0.7rem; margin-right:0.7rem; margin-bottom: .5rem;
+      margin-left:0.4rem; margin-right:0.4rem; margin-bottom: .5rem;
   }
 }

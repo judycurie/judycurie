@@ -1,7 +1,7 @@
 
 ![](./assets/graphics-master-areas.png)
 
-### Exhibitions
+# Exhibitions
 - **2023** - Burning Man 2023, Living Knitting Pavilion, 27/08-04/09/2023, Black Rock City, US (I was a member of interdisciplinary collective deisigin and constructing the installation) [link](https://livingknit.work/)
 - **2021-2022** - EXPO 2020, Perovskite Facade of the Polish Pavilion, 1/10/2021-31/03/2022, Dubai, UAE (I was responsible for designing part of the pavilion facade) [youTube](https://www.youtube.com/watch?v=ZaatwNpfhCA)
 - **2021** - CRASH Mexico NFT's Group Show, 16-18/12/2021, Union 221, Ciudad de Mexico, MX ( I was one of the exhibitors)

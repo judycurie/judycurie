@@ -1,15 +1,16 @@
 
-![](./assets/judycurie200.jpg)
-### **Judy Curie**
+![](../../assets/judycurie200.jpg)
+#Judy Curie
 
 Name: Judyta Maria Cichocka
 
 Date and place of birth: May 17, 1989, Rzeszow, Poland.
 
 [linkedin profile](https://www.linkedin.com/in/judyta-cichocka-6992a854/)
-### **Professional experience**
+#Professional experience
 |Time | Employer  | Position | Country|
 | -----| ------------ | ------| ----------------|
+|01/2023 – now | Fab Foundation Poland |founder and director | Wroclaw, PL|
 |10/2020 – now | Saule Technologies |design & optimization specialist | Wroclaw, PL|
 |03/2020 – 09/2020 | Wroclaw University of Technology, Department of History  of Architecture, Art and Technology |research assistant professor | Wroclaw, PL|
 |05/2020 – 07/2020| Brandenburgische Technische Universität (BTU), Faculty 6 Digital Design Methods |lecturer |  Cottbus, DE|
@@ -18,18 +19,20 @@ Date and place of birth: May 17, 1989, Rzeszow, Poland.
 |10/2017 – 02/2018|   Universitat der Kunste | lecturer|  Berlin, DE|
 |12/2014 – 02/2016|   Victoria University of Wellington, School of Computer Science and Engineering | visiting staff member|   Wellington, NZ|
 
-### **Education**
+#Education
 |Time | Univeristy | Title | Research Group |Country|
 | -----| -------- | ------| ------------|------|
 |09/2018 – 02/2020 |  Massachusetts Institute of Technology (MIT) | Master of Engineering (MEng) in Structural Mechanics & Design |Digital Structures Group|Boston, US |
 |10/2013 – 07/2018 | Wroclaw University of Technology and Science, Department of Architecture | Dr Eng. Arch. with honors | Laboratory of Digital Fabrication (LabDigiFab) |Wroclaw, PL |
 |10/2012 – 07/2013 | Wroclaw University of Technology and Science, Department of Architecture | Master Eng. Arch.  specialization: conservation of monuments | Laboratory of Digital Fabrication (LabDigiFab) |Wroclaw, PL |
 
-### **Licenses & certifications**
+#Licenses & certifications
 
 - **Fab Academy 2023** - Issued Jul 2023, [Alumni List](https://fabacademy.org/students/alumni-list.html#_2023)
 
 - **Cryptocurrency** - MIT Media Lab, Issued Aug 2022, Credential ID 55884175 [see credential](https://mitmedialab.credential.getsmarter.com/4c2a2111-93f6-4317-8c86-9ec7b9434647)
+
+- **Artificial Intelligence (AI)** - graduate of the on-site MIT course 6.844 Artificial Intelligence with final A, Jan 2020
 
 - **IELTS (8.0)** - British Council IELTS (International English Language Testing System)British Council IELTS (International English Language Testing System), Issued Oct 2017 · Credential ID 17DE009486CICJ708A
 - **Introduction to Computational Thinking and Data Science**, the Massachusetts Institute of Technology, Valid Certificate ID: 28173c7c3f3840afac282248f820b356
@@ -43,20 +46,21 @@ Credential ID 0022340
 
 
 
-### **Organisation of international conferences**
+#Organisation of international conferences
 I was one of the main organizers of the first international conference organized in Poland in the field of computer-aided design. SHAPES OF LOGIC International Conference of Parametric Design 2015, 13-15th March 2015,
 Wrocław, Poland. Organizers: LabDigiFab (Marta Pakowska, Joanna Symonowicz, Judyta Cichocka, Maciej
 Nisztuk, Jakub Ławicki, Konrad Kulwicki, Magdalena Grzegorzewska, Agnieszka Wolska).
 
-### **Participation in industrial innovation**
+#Participation in industrial innovation
 My research has been always application-oriented, therefore during my carrier I collaborated with industry (AJ System, Perfopol, 3YOURMIND). I also set-up my own innovation-based company Parametric Support UG. In 2016, I received a grant from the German Federal Ministry of Economy and Energy (BMWi) to create an application for multi-criteria optimization of architectural design. The optimizer co-created by me was awarded in the preset competition "MACHINE LEARNING ACROSS DISCIPLINES" organized by MIT in 2019. The application was used in the optimization of several projects in Mexico and Germany in cooperation with such offices as: Fernando Romero Enterprise, Tatiana Bilbao or GVA Architectos. My company Parametric Support UG was providing consulting services in the field of Architectural Design Optimization (ADO), and in 2017 was
 selected to TOP30 of European companies working to improve the climate of CLIMATE-KIC.
 
-### **Prizes and Awards**
+#Prizes and Awards
 - **2023** BURNING MAN 2023 HONORARIA - LIVINING KNITWORK PAVILION. I was a part of the multidisciplinary collective designing and building the installation during the Burning Man 2023 in Black Rock City. Links:  [project website](https://www.livingknit.work/) , [MIT website](https://www.media.mit.edu/projects/living-knitwork/overview/)
 - **2021** CONTRIBUTION TO WINNING EXPO 2020 POLISH PAVILION. I designed with Saule Technologies the Perovskite Facade of the pavilion. Links: [gov.pl](https://www.gov.pl/web/development-technology/polands-pavilion-at-expo-2020-honoured-by-the-national), [sauletech.com](https://sauletech.com/perovskites-featured-in-the-polish-pavilion-at-expo-2020-dubai/)
 - **2019** MIT NOMINEE, SOM STRUCTURAL ENGINEERING RESEARCH GRANT. One of two nominees representing MIT in the competition.
 - **2019** WINNER IN THE MIT COMPETITION MACHINE LEARNING ACROSS DISCIPLINES. The prize was awarded for the prototype of the multi-criteria GOLDFISH optimizer, cooperating with Radosław Grymin, supporting the decision-making process in engineering disciplines related to design, with particular emphasis on architecture and civil engineering. Awarding institution: MIT Schwarzman College of Computing.
+- **2019** MIT ART GRANT, grant awarded for the INFRAME project - a geodesic gridshell outdoor scene. I was one of the recepients of the grant.
 - **2018** WINNER OF POLITICA SCIENTIFIC AWARDS, Winner in the Technical Sciences category of the 18th ed. of the POLITYKA Scientific Awards
 - **2018** WINNER OF DREAM BOOST SCHOLARSHIP. The scholarship awarded in an international competition; three winners based on the portfolio were selected from candidates from around the
 world dealing in parametric design techniques. Awarding institution: Design Morphine
@@ -83,7 +87,7 @@ Architecture Architecture Murator, institution awarding: Architecture- Murator, 
 
 
 
-### **Committees & Memeberships**
+#Committees & Memeberships
 - **2019 - now** member of the Architecture and Urban Planning Committee of the Polish Academy of Sciences in Wroclaw, PL
 - **2018 - 2020** Digital Structures Group, MIT, Boston, US
 - **2016 - 2017** member of the Evolutionary Computation Research Group, School of Engineering and Computer Science, University of Wellington, Wellington, NZ

@@ -1,6 +1,6 @@
 
 ![](./assets/graphics-master-areas.png)
-### **Research Areas**
+# Research Areas
 
 
 I am interested in conducting and collaborating in research projects  in the following areas:
@@ -23,7 +23,7 @@ I am interested in conducting and collaborating in research projects  in the fol
 
 
 
-### **Funding Summary**
+# Funding Summary
 
 |Grant | Unit | Coordinator  |Amount | Realization Time| Results|
 | -----| ----| ------------ | ------| ----------------| -------|

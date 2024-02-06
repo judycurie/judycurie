@@ -1,4 +1,4 @@
-### **Invited presentations**
+#Invited presentations
 [ * ] with conference publication
 
 - **2023** *Struktury Asymptotyczne*, Politechnika Wrocławska, Wydział Architektury, (online), 11/05/2023, Warszawa, PL

@@ -1,11 +1,11 @@
 
 ![](../../assets/judycurie300x300.jpg)
-### **Judy Curie**
+#Judy Curie
 
 Judy Curie (Judyta Maria Cichocka) is a passionate designer and entrepreneur in the field of structural art. Her main focus lies in Computational Intelligence methods applied in structural and architectural design. She holds PhD in architectural engineering (WRUT) and MEng in Structural Design and Mechanics (MIT). She was a MIT nominee to the SOM STRUCTURAL ENGINEERING RESEARCH GRANT (2019) and recipient of the MIT Art Grant (2019).She just has set up Fab Foundation Poland. She aspires to lead cutting edge research into digital fabrication and set up a Fab Lab Node in Poland. She would like to promote creation of the open source architecture and deliver it to the people in need.
 
 
-### **More**
+## **More**
 [Vogue -Kobieta sukcesu: Judyta Cichocka o karierze w nauce](https://www.vogue.pl/a/kobieta-sukcesu-judyta-cichocka-o-karierze-w-nauce)
 
 [MIT-News- Taking the lead in shaping the future of computing and artificial intelligence](https://news.mit.edu/2019/taking-the-lead-shaping-future-of-computing-and-artificial-intelligence-0227)
