@@ -51,6 +51,8 @@ School of Architecture and Design, Wellington & Wairarapa, New Zealand, tutoring
 
 #Other On-site Workshops
 
+**1.**  *OPTIshell Workshop*, 2-day workshop organized by Fab Foundation Poland, Fab Institute, 15-16/03/2024, Wroclaw, PL
+
 **1.**  *Sprayed Robotic Structures Workshop*, Workshop mit Tragwerksanalyse der Module, BTU Cottbus, 09/2019 (5 x 5 hours), Cottbus, DE
 
 **2.** Optimization workshops as part of the *Summer School Dresden*, TU Dresden, led by: Judyta Cichocka, 20/08/2017, Dresden, DE

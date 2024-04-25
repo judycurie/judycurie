@@ -275,9 +275,11 @@ ____
 
  ![](../../../assets/science/IASS2024-word2.jpg)
  **Fig.**Boundary condition for the shell analysis.
+
 - Surface Area: 55,71m2
 - Thickness: 5mm
 - Volume: 0,27853048 m3
+
 LC0:
  - Dipl [cm]: 0.059006
  - BL Fact: 54.396208
@@ -289,10 +291,11 @@ LC0:
   - Util: -1.0% - 0.7%
 
 **Grid Densities & Lath Parameters**
+
 In order to find asymptotic grids of equivalent material volume of the proposed shell, a few asymptotic grids variations were generated (Table 4), assuming shell in 1:10 scale of surfacer area 0,557061m2 and 0.5mm thickness, resulting in 0,0002785305m3 of the material volume.
 
  ![](../../../assets/science/Screenshot 2024-04-25 034710.png)
- 
+
  **Table.**Analysis of grid densities and cross section of equivalent volume
 
  ![](../../../assets/science/IASS2024-word.jpg)
@@ -386,7 +389,7 @@ __________________________________________
 
 **OPTISHELL grishell publicaion**: [available soon]
 
-**GOLDFISH plugin & manual**: [GOLDFISH.zip](../../../assets/science/goldfish/goldfish.zip) {: GOLDFISH.zip}
+**GOLDFISH plugin & manual**: [GOLDFISH.zip](../../../assets/science/goldfish/goldfish.zip){: GOLDFISH.zip}
 
 **GOLDFISH optimizer publicaion**: [available soon]
 
