@@ -36,7 +36,7 @@
 3.	[008414718-0001](https://euipo.europa.eu/eSearch/#details/designs/008414718-0001)
 4.	[008414718-0002](https://euipo.europa.eu/eSearch/#details/designs/008414718-0002)
 
-#*US Design Patent
+#US Design Patent
 1. [USD997858](../../assets/science/USD997858-eGrant.pdf)
 
 #Bibltex

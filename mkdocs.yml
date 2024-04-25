@@ -5,11 +5,13 @@ copyright: Judy Curie
 
 nav:
     - ...: index.md
+
     - Science:
       - nav/science/research.md
       - nav/science/publications.md
       - nav/science/teaching.md
       - nav/science/talks.md
+      
 
     - Is:
       - nav/is/about.md
