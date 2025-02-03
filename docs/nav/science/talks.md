@@ -1,5 +1,6 @@
 #Invited presentations
 [ * ] with conference publication
+- **2024** *Asymptotic structures*, IASS WG 13 - NGPD Study Group - Invitation to Informal Research Conversation (online), 07/06/2024, Wroclaw, PL
 
 - **2024** *Asymptotic structures*, IASS WG 13 - NGPD Study Group - Invitation to Informal Research Conversation (online), 29/02/2024
 

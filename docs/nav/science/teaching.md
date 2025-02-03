@@ -37,7 +37,7 @@ School of Architecture and Design, Wellington & Wairarapa, New Zealand, tutoring
 
 ![](../../assets/science/jmc4.png)
 
-**ADVANCES IN ARCHITECTURAL GEOMETRY 2016 (AAG 2016)**, *AJ Game from complexity to reality*, 10-11/09/2016, ETH, Zurich, CH
+**ADVANCES IN ARCHITECTURAL GEOMETRY 2016 (AAG 2016)**, *Workshop 1: AJ GAME – From Digital Complexity to Physical Construction*, 10-11/09/2016, ETH, Zurich, CH
 
 
 ![](../../assets/science/jmc5.png)
