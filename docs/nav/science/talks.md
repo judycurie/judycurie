@@ -1,6 +1,7 @@
 #Invited presentations
 [ * ] with conference publication
-- **2024** *Asymptotic structures*, IASS WG 13 - NGPD Study Group - Invitation to Informal Research Conversation (online), 07/06/2024, Wroclaw, PL
+
+- **2025** *Phenome- collaborative production chains*, Design ++ Fellowship interview, ETH Zurich, 09/07/2025, Zurich, CH
 
 - **2024** *Asymptotic structures*, IASS WG 13 - NGPD Study Group - Invitation to Informal Research Conversation (online), 29/02/2024
 
