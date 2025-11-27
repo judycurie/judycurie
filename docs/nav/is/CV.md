@@ -12,6 +12,7 @@ Date and place of birth: May 17, 1989, Rzeszow, Poland.
 | -----| ------------ | ------| ----------------|
 |01/2023 – now | Fab Foundation Poland |founder and director | Wroclaw, PL|
 |10/2020 – 03/2025 | Saule Technologies |design & optimization specialist | Wroclaw, PL|
+|02/2021 – 07/2021 | BTU Cottbus-Senftenberg |DAAD Researcher | Cottbus, DE|
 |03/2020 – 09/2020 | Wroclaw University of Technology, Department of History  of Architecture, Art and Technology |research assistant professor | Wroclaw, PL|
 |05/2020 – 07/2020| Brandenburgische Technische Universität (BTU), Faculty 6 Digital Design Methods |lecturer |  Cottbus, DE|
 |06/2019 – 09/2019| BuroHappold Engineering |computational designer |  Boston, US|

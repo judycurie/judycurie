@@ -17,7 +17,33 @@ Universität der Künste BerlinUniversität der Künste Berlin, Berlin Area, Ger
 
 **2015 - Adjunct/ Tutor**
 Victoria University of Wellington
-School of Architecture and Design, Wellington & Wairarapa, New Zealand, tutoring Design Communication Course (SARC261), tutoring parametric design workshops
+School of Architecture and Design, Wellington & Wairarapa, New Zealand, tutoring Design Communication Course (SARC261), tutoring parametric design workshops;
+
+University: Victoria University of Wellington
+Duration: 1 trimester (Trimester 2) 13.07.2015 - 30.10.2015
+Department: School of Architecture and Design
+Course: SARC 261 Communication
+Program: 200-level (Undergraduate, 2nd year)
+Number of students: 20
+Responsibilities: preparation of the program – Rhino/Grasshopper, conduction of the classes, consultations on projects, marking
+
+University: Victoria University of Wellington
+Duration: 1 trimester (Trimester 2) 13.07.2015 - 30.10.2015
+Department: School of Architecture and Design
+Course: ARCI 412 ARCHITECTURE DESIGN RESEARCH
+Program: 400- level (Graduate, 4th year)
+Number of students: 20
+Responsibilities: leading workshop – part of the course program, preparation of the workshop content, consultation on projects, final review of the projects, giving seminars
+
+**2014-2015 - Assistant/Tutor**
+University: Wroclaw University of Technology
+Duration: 1 semester (winter term 2014/2015) 1.30.2014-15.02.2015
+Department: Faculty of Architecture
+Course: Advanced 2D and 3D Design Tools in Spatial Planning
+Program: Graduate (5th year)
+Number of students: 25
+Responsibilities: introduction for students to Rhino/
+
 
 
 # Leadership of workshops at international conferences
@@ -72,6 +98,8 @@ School of Architecture and Design, Wellington & Wairarapa, New Zealand, tutoring
 **9.** *Parametric design workshop Course 2*: Intermediate level + physical simulations, Organizing committee: Judyta Cichocka, Piotr Halczuk, 18-19/10/2014 (2 days), Biskupia 10/2, Kraków, PL
 
 **10.** *Parametric design workshops Course 1*: Basic level + optimization, Organizing committee: Judyta Cichocka, Piotr Halczuk, 11-12/10/2014 (2 days), Św.Filipa 23/6, Kraków, PL
+
+**11.** *Parametric Design in Rhino/Grasshopper3d for architecture*: Undergraduate, Faculty of Architecture, Irkutsk State Technical University, 24/10/2014-05/11/2014 (2 weeks), Irkutsk, RU
 
 **11.** *Generative forms in art and architecture*, Lower Silesian Science Festival 2014, organizing committee: Judyta Cichocka, Jakub Ławicki, 23-24/09/2014 (2 days), C13, Wrocław University of Science and Technology, Wrocław, PL
 
