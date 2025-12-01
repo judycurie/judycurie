@@ -1,6 +1,6 @@
 site_name: Judy Curie
 repo_name: judycurie/jmc
-site_url: https://www.judycurie.com/
+site_url: https://judycurie.github.io/judycurie/
 copyright: Judy Curie
 
 nav:
@@ -11,7 +11,7 @@ nav:
       - nav/science/publications.md
       - nav/science/teaching.md
       - nav/science/talks.md
-      
+
 
     - Is:
       - nav/is/about.md
