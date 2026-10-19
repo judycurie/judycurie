@@ -1,6 +1,10 @@
 #Invited presentations
 [ * ] with conference publication
 
+- **2026** *My.Ceiling  - Modular lightweight construction system for ceiling structures made from densified mycelium shells*, Zukunftbau Jubilee [20 Jahre Forschung Fordern, Jubilaum + Projectetag], Futurium Berlin, 18/09/2026, Berlin, DE
+
+- **2026** *Optimization in Architecture, is it worth?*, Optimization* u40 SARP annual meeting, SARP Poznan, 11/09/2026, Poznan, PL
+
 - **2025** *Phenome- collaborative production chains*, Design ++ Fellowship interview, ETH Zurich, 09/07/2025, Zurich, CH
 
 - **2024** *Asymptotic structures*, IASS WG 13 - NGPD Study Group - Invitation to Informal Research Conversation (online), 29/02/2024

@@ -77,6 +77,8 @@ Responsibilities: introduction for students to Rhino/
 
 #Other On-site Workshops
 
+**1.**  *Optimization in Architecture*, 2-day workshop organized by SARP Poznan u40, SARP Poznan, 10-11/09/2026, Poznan, PL
+
 **1.**  *OPTIshell Workshop*, 2-day workshop organized by Fab Foundation Poland, Fab Institute, 15-16/03/2024, Wroclaw, PL
 
 **1.**  *Sprayed Robotic Structures Workshop*, Workshop mit Tragwerksanalyse der Module, BTU Cottbus, 09/2019 (5 x 5 hours), Cottbus, DE
