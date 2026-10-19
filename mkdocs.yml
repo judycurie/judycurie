@@ -1,7 +1,7 @@
-site_name: Judy Curie
+site_name:   .
 repo_name: judycurie/jmc
 site_url: https://judycurie.github.io/judycurie/
-copyright: Judy Curie
+copyright:
 
 nav:
     - ...: index.md
@@ -26,17 +26,19 @@ nav:
 
 
 extra:
-  # Set your own social media below (or remove)
   social:
-    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/instagram
+    - icon: assets/instagram200px.png
       link: https://www.instagram.com/judycurie/
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/judyta.cichocka
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/judycurie
-    - icon: fontawesome/brands/linkedin
+      name: Instagram
+
+    - icon: assets/linkedin200px.png
       link: https://www.linkedin.com/in/judyta-cichocka-6992a854/
+      name: LinkedIn
+
+    - icon: assets/facebook200px.png
+      link: https://www.facebook.com/judyta.cichocka/
+      name: Facebook
+
 
 theme:
   name: simple-blog
@@ -44,15 +46,18 @@ theme:
   features:
     - navigation.sections
     - navigation.tabs
+    - navigation.footer
   title_style: normal
   favicon: assets/logo.svg
-  logo: assets/logo.svg
+  logo: assets/jc6a-150pxH.png
   # theme_style: light
   colors:
     text: black
     title: black
     primary: black
     background: white
+
+
 
 markdown_extensions:
   - footnotes

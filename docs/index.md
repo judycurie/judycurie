@@ -1,3 +1,3 @@
 
 
-![](../../assets/g2-jmc2x3x.gif)
+![](assets/g2-jmc2x3x.gif)

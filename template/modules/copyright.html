@@ -1,32 +1,24 @@
-
 {%- if config.copyright %}
     <small class="d-block mb-3">{{ config.copyright }}</small>
 {%- endif %}
+
 {% if not config.extra.generator == false %}
     <small class="d-block mb-3">
-        email: judyta.cichocka@gmail.com
-
+        email: <a href="mailto:judymariecurie@gmail.com">judymariecurie@gmail.com</a>
     </small>
 
-    <small class="d-block mb-3">
-
-
-
-
-        <a href="https://www.instagram.com/judycurie/" target="_blank" rel="noopener">
-            <b> instagram </b>
-        </a>
-        /
-
-        </a>
-        <a href="https://www.linkedin.com/in/judyta-cichocka-6992a854//" target="_blank" rel="noopener">
-            <b> linkedin </b>
-        </a>
-        /
-        </a>
-        <a href="https://www.facebook.com/judyta.cichocka/" target="_blank" rel="noopener">
-            <b>facebook</b>
-        </a>
-
+    {% if config.extra.social %}
+    <small class="d-block mb-3 social-links">
+        {% for item in config.extra.social %}
+            <a href="{{ item.link }}" target="_blank" rel="noopener" title="{{ item.name }}" class="me-2 text-decoration-none">
+                {% if item.icon %}
+                    <img src="{{ base_url }}/{{ item.icon }}" alt="{{ item.name }}" style="height: 20px; width: auto; vertical-align: middle;">
+                {% else %}
+                    <b>{{ item.name }}</b>
+                {% endif %}
+            </a>
+            {% if not loop.last %} / {% endif %}
+        {% endfor %}
     </small>
+    {% endif %}
 {% endif %}
