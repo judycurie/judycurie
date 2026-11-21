@@ -86,8 +86,31 @@ table td,table th {
 }
 
 
+.footer-cta-btn {
+    display: inline-block;
+    padding: 1.1rem 2.2rem;
+    font-size: 1.35rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    color: var(--background) !important;
+    background-color: var(--primary);
+    border: 2px solid var(--primary);
+    border-radius: 12px;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.footer-cta-btn:hover,
+.footer-cta-btn:focus {
+    color: var(--primary) !important;
+    background-color: var(--background);
+    text-decoration: none !important;
+}
+
 @media only screen and (max-width: 1200px) {
     .source-detail {
         border-color: var(--primary);
     }
 }
+
