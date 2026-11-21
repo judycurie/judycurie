@@ -6,7 +6,8 @@
   "description": "Personal portfolio and research website of Judy Curie (Judyta Maria Cichocka) — Science Is Art.",
   "scripts": {
     "dev": "node --watch server.ts",
-    "build": "tsc --noEmit",
+    "build:static": "node scripts/build-static.ts",
+    "build": "tsc --noEmit && node scripts/build-static.ts",
     "lint": "tsc --noEmit",
     "start": "node server.ts"
   },

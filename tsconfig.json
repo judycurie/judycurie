@@ -11,6 +11,6 @@
     "resolveJsonModule": true,
     "allowImportingTsExtensions": true
   },
-  "include": ["server.ts", "src/**/*.ts"],
+  "include": ["server.ts", "src/**/*.ts", "scripts/**/*.ts"],
   "exclude": ["node_modules", "dist"]
 }
