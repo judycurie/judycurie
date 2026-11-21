@@ -1,0 +1,68 @@
+{
+  "siteName": ".",
+  "siteTitleMeta": "Judy Curie — Science Is Art",
+  "siteDescription": "Personal portfolio and research website of Dr. Judyta Maria Cichocka (Judy Curie) covering computational design, structural art, publications, teaching, talks, and exhibitions.",
+  "repoName": "judycurie/jmc",
+  "siteUrl": "https://judycurie.github.io/judycurie/",
+  "copyright": "",
+  "email": "judymariecurie@gmail.com",
+  "theme": {
+    "titleStyle": "normal",
+    "siteNameStyle": "",
+    "favicon": "assets/logo.svg",
+    "logo": "assets/jc6a-150pxH.png",
+    "colors": {
+      "text": "black",
+      "title": "black",
+      "primary": "black",
+      "background": "white"
+    }
+  },
+  "nav": [
+    {
+      "title": "...",
+      "file": "index.md"
+    },
+    {
+      "title": "Science",
+      "children": [
+        { "title": "Research", "file": "nav/science/research.md" },
+        { "title": "Publications", "file": "nav/science/publications.md" },
+        { "title": "Teaching", "file": "nav/science/teaching.md" },
+        { "title": "Talks", "file": "nav/science/talks.md" }
+      ]
+    },
+    {
+      "title": "Is",
+      "children": [
+        { "title": "About", "file": "nav/is/about.md" },
+        { "title": "CV", "file": "nav/is/CV.md" }
+      ]
+    },
+    {
+      "title": "Art",
+      "children": [
+        { "title": "NFT", "file": "nav/art/NFT.md" },
+        { "title": "Exhibitions", "file": "nav/art/exhibitions.md" },
+        { "title": "Projects", "file": "nav/art/projects.md" }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "icon": "assets/instagram200px.png",
+      "link": "https://www.instagram.com/judycurie/",
+      "name": "Instagram"
+    },
+    {
+      "icon": "assets/linkedin200px.png",
+      "link": "https://www.linkedin.com/in/judyta-cichocka-6992a854/",
+      "name": "LinkedIn"
+    },
+    {
+      "icon": "assets/facebook200px.png",
+      "link": "https://www.facebook.com/judyta.cichocka/",
+      "name": "Facebook"
+    }
+  ]
+}

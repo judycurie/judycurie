@@ -1,0 +1,16 @@
+<!-- block dropdown-menu -->
+<% if (!navItem.children || navItem.children.length === 0) { %>
+    <li>
+        <a href="<%= navItem.url %>" class="dropdown-item text-decoration-none<% if (navItem.active) { %> active<% } %>"><%= navItem.title %></a>
+    </li>
+<% } else { %>
+    <li>
+        <a class="dropdown-item text-decoration-none" href="#"><%= navItem.title %> &raquo;</a>
+        <ul class="submenu dropdown-menu">
+            <% for (const child of navItem.children) { %>
+                <%- include('dropdown-menu', { navItem: child }) %>
+            <% } %>
+        </ul>
+    </li>
+<% } %>
+<!-- endblock -->

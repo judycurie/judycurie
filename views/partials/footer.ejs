@@ -1,0 +1,42 @@
+<!-- block footer -->
+<footer class="pt-4 my-md-5 pt-md-5 border-top" id="component-footer">
+    <div class="row align-items-center g-4">
+        <div class="col-12 col-md">
+            <% if (config.copyright) { %>
+                <small class="d-block mb-3"><%= config.copyright %></small>
+            <% } %>
+
+            <% if (config.email) { %>
+                <small class="d-block mb-3">
+                    email: <a href="mailto:<%= config.email %>"><%= config.email %></a>
+                </small>
+            <% } %>
+
+            <% if (config.social && config.social.length > 0) { %>
+                <small class="d-block mb-3 social-links">
+                    <% config.social.forEach((item, index) => { %>
+                        <a href="<%= item.link %>" target="_blank" rel="noopener" title="<%= item.name %>" class="me-2 text-decoration-none">
+                            <% if (item.icon) { %>
+                                <img src="/<%= item.icon %>" alt="<%= item.name %>" style="height: 20px; width: auto; vertical-align: middle;">
+                            <% } else { %>
+                                <b><%= item.name %></b>
+                            <% } %>
+                        </a>
+                        <% if (index < config.social.length - 1) { %> / <% } %>
+                    <% }) %>
+                </small>
+            <% } %>
+        </div>
+        <div class="col-12 col-md-auto text-md-end">
+            <a
+                href="https://creator-judycurie.ai.studio"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="footer-cta-btn"
+            >
+                Explore Digital Products <i class="fa fa-arrow-right ms-2" aria-hidden="true"></i>
+            </a>
+        </div>
+    </div>
+</footer>
+<!-- endblock -->

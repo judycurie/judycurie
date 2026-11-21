@@ -1,0 +1,24 @@
+<!-- block menu -->
+<% if (nav && nav.length > 1) { %>
+    <div id="component-menu">
+        <ul class="navbar-nav">
+            <% for (const navItem of nav) { %>
+                <% if (navItem.children && navItem.children.length > 0) { %>
+                    <li class="nav-item dropdown">
+                        <a class="<% if (navItem.active) { %>active <% } %>nav-link dropdown-toggle text-decoration-none" href="#" data-bs-toggle="dropdown">[<%= navItem.title %>]</a>
+                        <ul class="dropdown-menu">
+                            <% for (const child of navItem.children) { %>
+                                <%- include('dropdown-menu', { navItem: child }) %>
+                            <% } %>
+                        </ul>
+                    </li>
+                <% } else { %>
+                    <li class="nav-item">
+                        <a class="<% if (navItem.active) { %>active <% } %>nav-link text-gray text-decoration-none" href="<%= navItem.url %>">[<%= navItem.title %>]</a>
+                    </li>
+                <% } %>
+            <% } %>
+        </ul>
+    </div>
+<% } %>
+<!-- endblock -->

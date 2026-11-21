@@ -1,0 +1,17 @@
+<!-- block preview -->
+<% if (page && (page.nextPage || page.previousPage)) { %>
+    <div class="row row-cols-md-3 text-center pt-md-3" id="component-preview">
+        <div class="col themed-grid-col">
+            <a rel="prev" <% if (page.previousPage) { %>href="<%= page.previousPage.url %>" class="nav-link"<% } else { %>class="nav-link disabled"<% } %>>
+                <i class="fa fa-arrow-left"></i> Previous
+            </a>
+        </div>
+        <div class="col themed-grid-col"></div>
+        <div class="col themed-grid-col">
+            <a rel="next" <% if (page.nextPage) { %>href="<%= page.nextPage.url %>" class="nav-link"<% } else { %>class="nav-link disabled"<% } %>>
+                Next <i class="fa fa-arrow-right"></i>
+            </a>
+        </div>
+    </div>
+<% } %>
+<!-- endblock -->

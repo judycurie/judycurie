@@ -1,0 +1,28 @@
+<!-- block header -->
+<nav class="navbar navbar-expand-xl border-bottom">
+    <div class="container-fluid">
+        <% if (config.theme.logo) { %>
+            <a href="/" class="text-decoration-none">
+                <img class="logo" src="/<%= config.theme.logo %>" alt="<%= config.siteTitleMeta %>">
+            </a>
+        <% } %>
+
+        <span class="<%= config.theme.siteNameStyle %> fs-4 title-color site-name" id="component-site-name" style="text-transform: uppercase;"><%= config.siteName %></span>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsMenu"
+            aria-controls="navbarsMenu" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse flex-column ml-auto" id="navbarsMenu">
+            <ul class="navbar-nav">
+                <!-- block menu -->
+                <li class="nav-item">
+                    <%- include('menu') %>
+                </li>
+                <!-- endblock -->
+            </ul>
+        </div>
+    </div>
+</nav>
+<!-- endblock -->
